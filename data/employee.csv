@@ -1,0 +1,12 @@
+employee_id,first_name,last_name,department,salary,join_date
+101,John,Doe,Engineering,85000,2021-03-15
+102,Jane,Smith,Marketing,72000,2020-07-22
+103,Michael,Johnson,Engineering,95000,2019-01-10
+104,Emily,Davis,Human Resources,65000,2022-05-18
+105,David,Brown,Finance,88000,2018-11-03
+106,Sarah,Wilson,Engineering,91000,2020-09-12
+107,James,Taylor,Sales,70000,2023-02-01
+108,Jessica,Anderson,Marketing,75000,2021-06-25
+109,Daniel,Thomas,Finance,83000,2022-10-14
+110,Laura,Martinez,Human Resources,67000,2021-12-05
+
